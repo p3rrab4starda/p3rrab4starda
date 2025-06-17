@@ -1,5 +1,6 @@
-## Hi there 👋
-hola 
+## Welcome to my repository👋 
+Soy estudiante de ingenieria en sistemas en bolivia, llevando mi segundo año de la carrera.
+Este repositorio esta dedicado a mis tareas y trabajos de la universidad.
 <!--
 **p3rrab4starda/p3rrab4starda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
